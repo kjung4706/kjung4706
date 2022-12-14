@@ -1,5 +1,5 @@
 👋 Hello!
 
-👀 Computer Science undergrad at UC Irvine;
+🎓 Computer Science @ UC Irvine;
 
 🌱 Currently learning Python and C++;
